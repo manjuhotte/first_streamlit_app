@@ -19,6 +19,8 @@ streamlit.text('🥙Omega3 and blueberrry oat meal')
 streamlit.text('🧀kale, spinach and rocket smotthie')
 streamlit.text('🍗Hard boiled egg')
 
+streamlit.header(🍧🥧'Build your own best fruit smoothies')
+
 
 
 
