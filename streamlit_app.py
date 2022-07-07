@@ -9,7 +9,7 @@ streamlit.text('Dosai')
 streamlit.text('Ricebath')
 
 
-streamlit.header('My parents healthydiner 2')
+streamlit.header('Breakfast Menu 2')
 streamlit.text('Omega3 and blueberrry oat meal')
 streamlit.text('kale, spinach and rocket smotthie')
 streamlit.text('Hard boiled egg')
